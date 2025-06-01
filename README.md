@@ -1,5 +1,6 @@
 ### 🚧 Power BI Project – Road Traffic Incidents in Mexico City (CDMX)
 This Power BI dashboard provides an analytical view of traffic incidents reported in Mexico City (CDMX). It includes indicators on the number of incidents, response times, temporal patterns, and geographic distribution, helping authorities and analysts better understand road safety dynamics in the city.
+![Image](https://github.com/user-attachments/assets/a688981a-1427-42ab-8513-58d64421f87c)
 
 ### 📊 Dashboard Features
 ### Key KPIs:
